@@ -7,6 +7,6 @@ Next the program will generate a file 'output.mp3' in the folder where the code 
 
 ## service2.py
 In this program we used the aws transcribe service to transform a spoken text to a string.
-To use this program u need to run the code and specify the path to a public s3 bucket contain the (public) mp3 file you want to transform.
+To use this program u need to run the code and specify the path to a public s3 bucket contain the (public) mp3 file you want to transform using the consol.
 Once you ran this code a link will apear in the console, you can then click this link to download a json file containing the transformed text.
 Be sure that you use the public uri in the shape of s3://bucket/file as path. 
