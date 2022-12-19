@@ -1,4 +1,4 @@
-# cloud-ai_aws
+# cloud-ai_aws (r0855665, Kwinten Van Houtven)
 
 ## service1.py
 This file uses the polly service to transform a text to speech.
